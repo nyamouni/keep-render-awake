@@ -1,4 +1,6 @@
 # Ping Render Site Every 30 Minutes
+# Trigger to force GitHub recognition
+
 name: Keep Render Site Awake
 
 on:
